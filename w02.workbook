@@ -1,1 +1,19 @@
-{"versionNumber":1,"cells":{},"cellsOrder":[]}
+{
+  "versionNumber": 1,
+  "cells": {
+    "1": {
+      "id": 1,
+      "type": "resolutionEditor",
+      "data": "{\"language\":{\"consts\":{\"input\":\"a, b, c\",\"object\":[\"a\",\"b\",\"c\"],\"error\":\"\",\"symbols\":[\"a\",\"b\",\"c\"]},\"funs\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]},\"preds\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]}},\"steps\":{\"order\":[],\"allSteps\":[],\"rank\":[],\"id\":0},\"inputChange\":{\"originValue\":\"\"}}",
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      },
+      "isEdited": false
+    }
+  },
+  "cellsOrder": [
+    1
+  ]
+}
