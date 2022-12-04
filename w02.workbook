@@ -1,1 +1,19 @@
-{"versionNumber":1,"cells":{},"cellsOrder":[]}
+{
+  "versionNumber": 1,
+  "cells": {
+    "1": {
+      "id": 1,
+      "type": "resolutionEditor",
+      "data": null,
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      },
+      "isEdited": true
+    }
+  },
+  "cellsOrder": [
+    1
+  ]
+}
