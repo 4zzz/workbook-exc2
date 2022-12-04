@@ -44,10 +44,22 @@
         "entities": {}
       },
       "isEdited": true
+    },
+    "12": {
+      "id": 12,
+      "type": "tableauEditor",
+      "data": null,
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      },
+      "isEdited": true
     }
   },
   "cellsOrder": [
     6,
+    12,
     11,
     9,
     10
