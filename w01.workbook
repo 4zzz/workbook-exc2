@@ -1,39 +1,6 @@
 {
   "versionNumber": 1,
   "cells": {
-    "1": {
-      "id": 1,
-      "type": "text",
-      "data": "",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
-    },
-    "2": {
-      "id": 2,
-      "type": "text",
-      "data": "",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
-    },
-    "3": {
-      "id": 3,
-      "type": "text",
-      "data": "",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
-    },
     "4": {
       "id": 4,
       "type": "text",
@@ -45,10 +12,10 @@
       },
       "isEdited": false
     },
-    "5": {
-      "id": 5,
-      "type": "text",
-      "data": "",
+    "6": {
+      "id": 6,
+      "type": "resolutionEditor",
+      "data": null,
       "idCounter": 0,
       "comments": {
         "ids": [],
@@ -58,10 +25,7 @@
     }
   },
   "cellsOrder": [
-    1,
-    2,
-    5,
     4,
-    3
+    6
   ]
 }
