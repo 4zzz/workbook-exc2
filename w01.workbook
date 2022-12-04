@@ -12,8 +12,8 @@
       },
       "isEdited": false
     },
-    "7": {
-      "id": 7,
+    "9": {
+      "id": 9,
       "type": "text",
       "data": "",
       "idCounter": 0,
@@ -26,6 +26,6 @@
   },
   "cellsOrder": [
     6,
-    7
+    9
   ]
 }
