@@ -22,10 +22,22 @@
         "entities": {}
       },
       "isEdited": true
+    },
+    "3": {
+      "id": 3,
+      "type": "structureExplorer",
+      "data": null,
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      },
+      "isEdited": true
     }
   },
   "cellsOrder": [
     1,
-    2
+    2,
+    3
   ]
 }
