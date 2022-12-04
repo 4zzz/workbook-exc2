@@ -21,7 +21,7 @@
         "ids": [],
         "entities": {}
       },
-      "isEdited": true
+      "isEdited": false
     },
     "3": {
       "id": 3,
@@ -32,11 +32,23 @@
         "ids": [],
         "entities": {}
       },
+      "isEdited": false
+    },
+    "4": {
+      "id": 4,
+      "type": "text",
+      "data": "",
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      },
       "isEdited": true
     }
   },
   "cellsOrder": [
     1,
+    4,
     2,
     3
   ]
