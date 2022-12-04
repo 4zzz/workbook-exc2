@@ -10,10 +10,22 @@
         "ids": [],
         "entities": {}
       },
+      "isEdited": false
+    },
+    "2": {
+      "id": 2,
+      "type": "text",
+      "data": "",
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      },
       "isEdited": true
     }
   },
   "cellsOrder": [
-    1
+    1,
+    2
   ]
 }
