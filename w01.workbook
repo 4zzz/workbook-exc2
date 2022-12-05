@@ -33,10 +33,22 @@
         "entities": {}
       },
       "isEdited": false
+    },
+    "14": {
+      "id": 14,
+      "type": "text",
+      "data": "",
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      },
+      "isEdited": true
     }
   },
   "cellsOrder": [
     13,
+    14,
     12,
     10
   ]
