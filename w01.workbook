@@ -15,13 +15,13 @@
     "2": {
       "id": 2,
       "type": "text",
-      "data": "hello",
+      "data": "hello, hi",
       "idCounter": 0,
       "comments": {
         "ids": [],
         "entities": {}
       },
-      "isEdited": true
+      "isEdited": false
     },
     "3": {
       "id": 3,
