@@ -43,10 +43,21 @@
         "ids": [],
         "entities": {}
       },
-      "isEdited": true
+      "isEdited": false
     },
     "14": {
       "id": 14,
+      "type": "text",
+      "data": "",
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      },
+      "isEdited": false
+    },
+    "15": {
+      "id": 15,
       "type": "text",
       "data": "",
       "idCounter": 0,
@@ -59,6 +70,7 @@
   },
   "cellsOrder": [
     6,
+    15,
     14,
     13,
     12,
