@@ -11,21 +11,9 @@
         "entities": {}
       },
       "isEdited": false
-    },
-    "14": {
-      "id": 14,
-      "type": "text",
-      "data": "",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
     }
   },
   "cellsOrder": [
-    14,
     13
   ]
 }
