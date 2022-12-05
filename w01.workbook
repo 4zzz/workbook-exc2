@@ -10,7 +10,7 @@
         "ids": [],
         "entities": {}
       },
-      "isEdited": true
+      "isEdited": false
     },
     "2": {
       "id": 2,
@@ -22,10 +22,22 @@
         "entities": {}
       },
       "isEdited": false
+    },
+    "3": {
+      "id": 3,
+      "type": "text",
+      "data": "",
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      },
+      "isEdited": true
     }
   },
   "cellsOrder": [
     2,
+    3,
     1
   ]
 }
