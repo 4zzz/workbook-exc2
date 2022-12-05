@@ -15,13 +15,13 @@
     "2": {
       "id": 2,
       "type": "text",
-      "data": "",
+      "data": "hello",
       "idCounter": 0,
       "comments": {
         "ids": [],
         "entities": {}
       },
-      "isEdited": false
+      "isEdited": true
     },
     "3": {
       "id": 3,
@@ -32,7 +32,7 @@
         "ids": [],
         "entities": {}
       },
-      "isEdited": true
+      "isEdited": false
     },
     "4": {
       "id": 4,
@@ -43,7 +43,7 @@
         "ids": [],
         "entities": {}
       },
-      "isEdited": true
+      "isEdited": false
     },
     "5": {
       "id": 5,
@@ -54,7 +54,7 @@
         "ids": [],
         "entities": {}
       },
-      "isEdited": true
+      "isEdited": false
     }
   },
   "cellsOrder": [
