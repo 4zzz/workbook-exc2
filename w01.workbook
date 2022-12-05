@@ -15,7 +15,7 @@
     "2": {
       "id": 2,
       "type": "text",
-      "data": "asdf",
+      "data": "",
       "idCounter": 0,
       "comments": {
         "ids": [],
