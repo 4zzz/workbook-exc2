@@ -1,17 +1,6 @@
 {
   "versionNumber": 1,
   "cells": {
-    "21": {
-      "id": 21,
-      "type": "text",
-      "data": "",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
-    },
     "22": {
       "id": 22,
       "type": "text",
@@ -21,7 +10,7 @@
         "ids": [],
         "entities": {}
       },
-      "isEdited": true
+      "isEdited": false
     },
     "23": {
       "id": 23,
@@ -32,11 +21,10 @@
         "ids": [],
         "entities": {}
       },
-      "isEdited": true
+      "isEdited": false
     }
   },
   "cellsOrder": [
-    21,
     22,
     23
   ]
