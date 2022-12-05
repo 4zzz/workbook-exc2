@@ -23,17 +23,6 @@
       },
       "isEdited": false
     },
-    "11": {
-      "id": 11,
-      "type": "text",
-      "data": "",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
-    },
     "12": {
       "id": 12,
       "type": "tableauEditor",
@@ -49,7 +38,6 @@
   "cellsOrder": [
     6,
     12,
-    11,
     10
   ]
 }
