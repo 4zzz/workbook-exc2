@@ -1,17 +1,6 @@
 {
   "versionNumber": 1,
   "cells": {
-    "12": {
-      "id": 12,
-      "type": "tableauEditor",
-      "data": null,
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
-    },
     "13": {
       "id": 13,
       "type": "text",
@@ -32,7 +21,7 @@
         "ids": [],
         "entities": {}
       },
-      "isEdited": true
+      "isEdited": false
     },
     "15": {
       "id": 15,
@@ -43,11 +32,10 @@
         "ids": [],
         "entities": {}
       },
-      "isEdited": true
+      "isEdited": false
     }
   },
   "cellsOrder": [
-    12,
     15,
     14,
     13
