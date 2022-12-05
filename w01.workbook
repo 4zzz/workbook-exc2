@@ -55,22 +55,10 @@
         "entities": {}
       },
       "isEdited": false
-    },
-    "13": {
-      "id": 13,
-      "type": "text",
-      "data": "",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": true
     }
   },
   "cellsOrder": [
     6,
-    13,
     12,
     11,
     9,
