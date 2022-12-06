@@ -154,6 +154,17 @@
         "entities": {}
       },
       "isEdited": true
+    },
+    "15": {
+      "id": 15,
+      "type": "text",
+      "data": "",
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      },
+      "isEdited": true
     }
   },
   "cellsOrder": [
@@ -164,6 +175,7 @@
     4,
     3,
     1,
+    15,
     14,
     13,
     12,
