@@ -77,6 +77,17 @@
         "entities": {}
       },
       "isEdited": true
+    },
+    "8": {
+      "id": 8,
+      "type": "text",
+      "data": "",
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      },
+      "isEdited": true
     }
   },
   "cellsOrder": [
@@ -86,6 +97,7 @@
     5,
     4,
     3,
-    1
+    1,
+    8
   ]
 }
