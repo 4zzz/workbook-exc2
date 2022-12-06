@@ -34,17 +34,6 @@
       },
       "isEdited": false
     },
-    "4": {
-      "id": 4,
-      "type": "text",
-      "data": "",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
-    },
     "8": {
       "id": 8,
       "type": "text",
@@ -136,7 +125,6 @@
   },
   "cellsOrder": [
     2,
-    4,
     3,
     1,
     15,
