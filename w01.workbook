@@ -66,11 +66,23 @@
         "entities": {}
       },
       "isEdited": true
+    },
+    "7": {
+      "id": 7,
+      "type": "text",
+      "data": "",
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      },
+      "isEdited": true
     }
   },
   "cellsOrder": [
     2,
     5,
+    7,
     6,
     4,
     3,
