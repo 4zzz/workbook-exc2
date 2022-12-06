@@ -55,11 +55,23 @@
         "entities": {}
       },
       "isEdited": true
+    },
+    "6": {
+      "id": 6,
+      "type": "text",
+      "data": "",
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      },
+      "isEdited": true
     }
   },
   "cellsOrder": [
     2,
     3,
+    6,
     5,
     4,
     1
