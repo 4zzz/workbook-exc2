@@ -10,7 +10,7 @@
         "ids": [],
         "entities": {}
       },
-      "isEdited": true
+      "isEdited": false
     },
     "2": {
       "id": 2,
@@ -21,10 +21,21 @@
         "ids": [],
         "entities": {}
       },
-      "isEdited": true
+      "isEdited": false
     },
     "3": {
       "id": 3,
+      "type": "text",
+      "data": "",
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      },
+      "isEdited": false
+    },
+    "4": {
+      "id": 4,
       "type": "text",
       "data": "",
       "idCounter": 0,
@@ -37,6 +48,7 @@
   },
   "cellsOrder": [
     2,
+    4,
     3,
     1
   ]
