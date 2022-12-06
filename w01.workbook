@@ -132,6 +132,17 @@
         "entities": {}
       },
       "isEdited": true
+    },
+    "13": {
+      "id": 13,
+      "type": "text",
+      "data": "",
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      },
+      "isEdited": true
     }
   },
   "cellsOrder": [
@@ -142,6 +153,7 @@
     4,
     3,
     1,
+    13,
     12,
     11,
     10,
