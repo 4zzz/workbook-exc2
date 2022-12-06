@@ -99,23 +99,11 @@
         "entities": {}
       },
       "isEdited": false
-    },
-    "15": {
-      "id": 15,
-      "type": "text",
-      "data": "",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
     }
   },
   "cellsOrder": [
     2,
     1,
-    15,
     14,
     13,
     12,
