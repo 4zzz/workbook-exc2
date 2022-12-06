@@ -4,13 +4,13 @@
     "1": {
       "id": 1,
       "type": "resolutionEditor",
-      "data": "{\"language\":{\"consts\":{\"input\":\"c1, a, b\",\"object\":[\"c1\",\"a\",\"b\"],\"error\":\"\",\"symbols\":[\"c1\",\"a\",\"b\"]},\"funs\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]},\"preds\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]}},\"steps\":{\"order\":[],\"allSteps\":[],\"rank\":[],\"id\":0},\"inputChange\":{\"originValue\":\"\"}}",
+      "data": "{\"language\":{\"consts\":{\"input\":\"c1, a, b\",\"object\":[\"c1\",\"a\",\"b\"],\"error\":\"\",\"symbols\":[\"c1\",\"a\",\"b\"]},\"funs\":{\"input\":\"asdas\",\"object\":[],\"error\":{\"message\":\"Expected end of input or function identifier/positive arity but \\\"a\\\" found.\",\"expected\":[{\"type\":\"other\",\"description\":\"function identifier/positive arity\"},{\"type\":\"end\"}],\"found\":\"a\",\"location\":{\"start\":{\"offset\":0,\"line\":1,\"column\":1},\"end\":{\"offset\":1,\"line\":1,\"column\":2}},\"name\":\"SyntaxError\"},\"symbols\":[]},\"preds\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]}},\"steps\":{\"order\":[],\"allSteps\":[],\"rank\":[],\"id\":0},\"inputChange\":{\"originValue\":\"\"}}",
       "idCounter": 0,
       "comments": {
         "ids": [],
         "entities": {}
       },
-      "isEdited": false
+      "isEdited": true
     },
     "2": {
       "id": 2,
