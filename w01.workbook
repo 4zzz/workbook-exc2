@@ -4,7 +4,7 @@
     "1": {
       "id": 1,
       "type": "resolutionEditor",
-      "data": "{\"language\":{\"consts\":{\"input\":\"c1, a, b, b\",\"object\":[\"c1\",\"a\",\"b\"],\"error\":{\"name\":\"DuplicityError\",\"message\":\"Symbol \\\"b\\\" is already a constant\"},\"symbols\":[\"c1\",\"a\",\"b\",\"b\"]},\"funs\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]},\"preds\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]}},\"steps\":{\"order\":[],\"allSteps\":[],\"rank\":[],\"id\":0},\"inputChange\":{\"originValue\":\"c1, a, b\"}}",
+      "data": "{\"language\":{\"consts\":{\"input\":\"c1, a, b, b\",\"object\":[\"c1\",\"a\",\"b\"],\"error\":{\"name\":\"DuplicityError\",\"message\":\"Symbol \\\"b\\\" is already a constant\"},\"symbols\":[\"c1\",\"a\",\"b\",\"b\"]},\"funs\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]},\"preds\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]}},\"steps\":{\"order\":[0,1],\"allSteps\":[[0,{\"formula\":{\"input\":\"\",\"error\":\"\"},\"rule\":\"Assumption\",\"reference1\":{\"input\":\"\",\"error\":\"\"},\"renaming\":{\"input\":\"\",\"error\":\"\"},\"reference2\":{\"input\":\"\",\"error\":\"\"},\"unifier\":{\"input\":\"\",\"error\":\"\"},\"valid\":false}],[1,{\"formula\":{\"input\":\"\",\"error\":\"\"},\"rule\":\"Assumption\",\"reference1\":{\"input\":\"\",\"error\":\"\"},\"renaming\":{\"input\":\"\",\"error\":\"\"},\"reference2\":{\"input\":\"\",\"error\":\"\"},\"unifier\":{\"input\":\"\",\"error\":\"\"},\"valid\":false}]],\"rank\":[[0,0],[1,1]],\"id\":2},\"inputChange\":{\"originValue\":\"c1, a, b\"}}",
       "idCounter": 0,
       "comments": {
         "ids": [],
