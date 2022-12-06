@@ -1,19 +1,63 @@
 {
   "versionNumber": 1,
   "cells": {
+    "1": {
+      "id": 1,
+      "type": "resolutionEditor",
+      "data": "{\"language\":{\"consts\":{\"input\":\"c1, a, b\",\"object\":[\"c1\",\"a\",\"b\"],\"error\":\"\",\"symbols\":[\"c1\",\"a\",\"b\"]},\"funs\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]},\"preds\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]}},\"steps\":{\"order\":[],\"allSteps\":[],\"rank\":[],\"id\":0},\"inputChange\":{\"originValue\":\"\"}}",
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      },
+      "isEdited": false
+    },
+    "2": {
+      "id": 2,
+      "type": "text",
+      "data": "hello",
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      },
+      "isEdited": false
+    },
+    "3": {
+      "id": 3,
+      "type": "text",
+      "data": "",
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      },
+      "isEdited": true
+    },
+    "4": {
+      "id": 4,
+      "type": "text",
+      "data": "",
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      },
+      "isEdited": true
+    },
+    "5": {
+      "id": 5,
+      "type": "text",
+      "data": "",
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      },
+      "isEdited": true
+    },
     "6": {
       "id": 6,
-      "type": "resolutionEditor",
-      "data": null,
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
-    },
-    "9": {
-      "id": 9,
       "type": "text",
       "data": "",
       "idCounter": 0,
@@ -21,47 +65,15 @@
         "ids": [],
         "entities": {}
       },
-      "isEdited": false
-    },
-    "10": {
-      "id": 10,
-      "type": "text",
-      "data": "",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
-    },
-    "11": {
-      "id": 11,
-      "type": "text",
-      "data": "",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
-    },
-    "12": {
-      "id": 12,
-      "type": "tableauEditor",
-      "data": null,
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
+      "isEdited": true
     }
   },
   "cellsOrder": [
+    2,
+    3,
     6,
-    12,
-    11,
-    9,
-    10
+    5,
+    4,
+    1
   ]
 }
