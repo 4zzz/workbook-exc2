@@ -45,17 +45,6 @@
       },
       "isEdited": false
     },
-    "5": {
-      "id": 5,
-      "type": "text",
-      "data": "",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
-    },
     "6": {
       "id": 6,
       "type": "text",
@@ -81,7 +70,6 @@
   },
   "cellsOrder": [
     2,
-    5,
     7,
     6,
     4,
