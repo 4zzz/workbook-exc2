@@ -1,6 +1,17 @@
 {
   "versionNumber": 1,
   "cells": {
+    "1": {
+      "id": 1,
+      "type": "resolutionEditor",
+      "data": "{\"language\":{\"consts\":{\"input\":\"c1, a, b, f1\",\"object\":[\"c1\",\"a\",\"b\",\"f1\"],\"error\":\"\",\"symbols\":[\"c1\",\"a\",\"b\",\"f1\"]},\"funs\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]},\"preds\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]}},\"steps\":{\"order\":[0,1],\"allSteps\":[[0,{\"formula\":{\"input\":\"\",\"error\":{\"message\":\"Expected \\\"(\\\", empty clause symbol, negation symbol, or predicate symbol but end of input found.\",\"expected\":[{\"type\":\"other\",\"description\":\"empty clause symbol\"},{\"type\":\"other\",\"description\":\"negation symbol\"},{\"type\":\"other\",\"description\":\"predicate symbol\"},{\"type\":\"literal\",\"text\":\"(\",\"ignoreCase\":false}],\"found\":null,\"location\":{\"start\":{\"offset\":0,\"line\":1,\"column\":1},\"end\":{\"offset\":0,\"line\":1,\"column\":1}},\"name\":\"SyntaxError\"}},\"rule\":\"Assumption\",\"reference1\":{\"input\":\"\",\"error\":{\"name\":\"EmptyError\",\"message\":\"This field cannot be empty\"}},\"renaming\":{\"input\":\"\",\"error\":\"\"},\"reference2\":{\"input\":\"\",\"error\":{\"name\":\"EmptyError\",\"message\":\"This field cannot be empty\"}},\"unifier\":{\"input\":\"\",\"error\":\"\"},\"valid\":false}],[1,{\"formula\":{\"input\":\"\",\"error\":{\"message\":\"Expected \\\"(\\\", empty clause symbol, negation symbol, or predicate symbol but end of input found.\",\"expected\":[{\"type\":\"other\",\"description\":\"empty clause symbol\"},{\"type\":\"other\",\"description\":\"negation symbol\"},{\"type\":\"other\",\"description\":\"predicate symbol\"},{\"type\":\"literal\",\"text\":\"(\",\"ignoreCase\":false}],\"found\":null,\"location\":{\"start\":{\"offset\":0,\"line\":1,\"column\":1},\"end\":{\"offset\":0,\"line\":1,\"column\":1}},\"name\":\"SyntaxError\"}},\"rule\":\"Assumption\",\"reference1\":{\"input\":\"\",\"error\":{\"name\":\"EmptyError\",\"message\":\"This field cannot be empty\"}},\"renaming\":{\"input\":\"\",\"error\":\"\"},\"reference2\":{\"input\":\"\",\"error\":{\"name\":\"EmptyError\",\"message\":\"This field cannot be empty\"}},\"unifier\":{\"input\":\"\",\"error\":\"\"},\"valid\":false}]],\"rank\":[[0,0],[1,1]],\"id\":2},\"inputChange\":{\"originValue\":\"c1, a, b, f\"}}",
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      },
+      "isEdited": false
+    },
     "2": {
       "id": 2,
       "type": "text",
@@ -118,6 +129,7 @@
     12,
     11,
     10,
+    1,
     7,
     6,
     5,
