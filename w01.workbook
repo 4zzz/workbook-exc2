@@ -143,23 +143,11 @@
         "entities": {}
       },
       "isEdited": false
-    },
-    "14": {
-      "id": 14,
-      "type": "resolutionEditor",
-      "data": null,
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": true
     }
   },
   "cellsOrder": [
     2,
     13,
-    14,
     12,
     11,
     10,
