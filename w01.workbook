@@ -89,17 +89,6 @@
       },
       "isEdited": false
     },
-    "9": {
-      "id": 9,
-      "type": "text",
-      "data": "",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
-    },
     "10": {
       "id": 10,
       "type": "text",
@@ -151,7 +140,6 @@
     12,
     11,
     10,
-    9,
     8,
     1,
     7,
