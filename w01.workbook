@@ -44,22 +44,10 @@
         "entities": {}
       },
       "isEdited": false
-    },
-    "6": {
-      "id": 6,
-      "type": "text",
-      "data": "",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
     }
   },
   "cellsOrder": [
     2,
-    6,
     4,
     3,
     1
