@@ -121,22 +121,10 @@
         "entities": {}
       },
       "isEdited": true
-    },
-    "12": {
-      "id": 12,
-      "type": "text",
-      "data": "",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": true
     }
   },
   "cellsOrder": [
     2,
-    12,
     11,
     10,
     9,
