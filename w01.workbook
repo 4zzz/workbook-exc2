@@ -110,31 +110,10 @@
         "entities": {}
       },
       "isEdited": false
-    },
-    "13": {
-      "id": 13,
-      "type": "text",
-      "data": "",
-      "idCounter": 1,
-      "comments": {
-        "ids": [
-          0
-        ],
-        "entities": {
-          "0": {
-            "author": "4zzz",
-            "text": "test",
-            "timestamp": 1670603468775,
-            "id": 0
-          }
-        }
-      },
-      "isEdited": false
     }
   },
   "cellsOrder": [
     2,
-    13,
     12,
     11,
     10,
