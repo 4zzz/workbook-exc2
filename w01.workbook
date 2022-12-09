@@ -132,22 +132,10 @@
         "entities": {}
       },
       "isEdited": true
-    },
-    "13": {
-      "id": 13,
-      "type": "text",
-      "data": "",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": true
     }
   },
   "cellsOrder": [
     2,
-    13,
     12,
     11,
     10,
