@@ -4,7 +4,7 @@
     "1": {
       "id": 1,
       "type": "resolutionEditor",
-      "data": "{\"language\":{\"consts\":{\"input\":\"c1, a, b\",\"object\":[\"c1\",\"a\",\"b\"],\"error\":\"\",\"symbols\":[\"c1\",\"a\",\"b\"]},\"funs\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]},\"preds\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]}},\"steps\":{\"order\":[],\"allSteps\":[],\"rank\":[],\"id\":0},\"inputChange\":{\"originValue\":\"\"}}",
+      "data": "{\"language\":{\"consts\":{\"input\":\"c1, a, b, f1\",\"object\":[\"c1\",\"a\",\"b\",\"f1\"],\"error\":\"\",\"symbols\":[\"c1\",\"a\",\"b\",\"f1\"]},\"funs\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]},\"preds\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]}},\"steps\":{\"order\":[0,1],\"allSteps\":[[0,{\"formula\":{\"input\":\"\",\"error\":{\"message\":\"Expected \\\"(\\\", empty clause symbol, negation symbol, or predicate symbol but end of input found.\",\"expected\":[{\"type\":\"other\",\"description\":\"empty clause symbol\"},{\"type\":\"other\",\"description\":\"negation symbol\"},{\"type\":\"other\",\"description\":\"predicate symbol\"},{\"type\":\"literal\",\"text\":\"(\",\"ignoreCase\":false}],\"found\":null,\"location\":{\"start\":{\"offset\":0,\"line\":1,\"column\":1},\"end\":{\"offset\":0,\"line\":1,\"column\":1}},\"name\":\"SyntaxError\"}},\"rule\":\"Assumption\",\"reference1\":{\"input\":\"\",\"error\":{\"name\":\"EmptyError\",\"message\":\"This field cannot be empty\"}},\"renaming\":{\"input\":\"\",\"error\":\"\"},\"reference2\":{\"input\":\"\",\"error\":{\"name\":\"EmptyError\",\"message\":\"This field cannot be empty\"}},\"unifier\":{\"input\":\"\",\"error\":\"\"},\"valid\":false}],[1,{\"formula\":{\"input\":\"\",\"error\":{\"message\":\"Expected \\\"(\\\", empty clause symbol, negation symbol, or predicate symbol but end of input found.\",\"expected\":[{\"type\":\"other\",\"description\":\"empty clause symbol\"},{\"type\":\"other\",\"description\":\"negation symbol\"},{\"type\":\"other\",\"description\":\"predicate symbol\"},{\"type\":\"literal\",\"text\":\"(\",\"ignoreCase\":false}],\"found\":null,\"location\":{\"start\":{\"offset\":0,\"line\":1,\"column\":1},\"end\":{\"offset\":0,\"line\":1,\"column\":1}},\"name\":\"SyntaxError\"}},\"rule\":\"Assumption\",\"reference1\":{\"input\":\"\",\"error\":{\"name\":\"EmptyError\",\"message\":\"This field cannot be empty\"}},\"renaming\":{\"input\":\"\",\"error\":\"\"},\"reference2\":{\"input\":\"\",\"error\":{\"name\":\"EmptyError\",\"message\":\"This field cannot be empty\"}},\"unifier\":{\"input\":\"\",\"error\":\"\"},\"valid\":false}]],\"rank\":[[0,0],[1,1]],\"id\":2},\"inputChange\":{\"originValue\":\"c1, a, b, f\"}}",
       "idCounter": 0,
       "comments": {
         "ids": [],
@@ -15,17 +15,77 @@
     "2": {
       "id": 2,
       "type": "text",
-      "data": "hello",
+      "data": "hello, asd",
       "idCounter": 0,
       "comments": {
         "ids": [],
         "entities": {}
       },
       "isEdited": false
+    },
+    "3": {
+      "id": 3,
+      "type": "text",
+      "data": "",
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      },
+      "isEdited": false
+    },
+    "4": {
+      "id": 4,
+      "type": "text",
+      "data": "",
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      },
+      "isEdited": false
+    },
+    "5": {
+      "id": 5,
+      "type": "text",
+      "data": "",
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      },
+      "isEdited": true
+    },
+    "6": {
+      "id": 6,
+      "type": "text",
+      "data": "",
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      },
+      "isEdited": true
+    },
+    "7": {
+      "id": 7,
+      "type": "text",
+      "data": "",
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      },
+      "isEdited": true
     }
   },
   "cellsOrder": [
     2,
+    5,
+    7,
+    6,
+    4,
+    3,
     1
   ]
 }
