@@ -117,8 +117,17 @@
       "data": "",
       "idCounter": 1,
       "comments": {
-        "ids": [],
-        "entities": {}
+        "ids": [
+          0
+        ],
+        "entities": {
+          "0": {
+            "author": "4zzz",
+            "text": "test",
+            "timestamp": 1670603468775,
+            "id": 0
+          }
+        }
       },
       "isEdited": false
     }
