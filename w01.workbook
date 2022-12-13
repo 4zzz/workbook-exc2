@@ -77,22 +77,10 @@
         "entities": {}
       },
       "isEdited": false
-    },
-    "8": {
-      "id": 8,
-      "type": "text",
-      "data": "",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
     }
   },
   "cellsOrder": [
     1,
-    8,
     7,
     6,
     5,
