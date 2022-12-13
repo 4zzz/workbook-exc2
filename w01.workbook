@@ -12,17 +12,6 @@
       },
       "isEdited": false
     },
-    "2": {
-      "id": 2,
-      "type": "text",
-      "data": "",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
-    },
     "3": {
       "id": 3,
       "type": "structureExplorer",
@@ -37,7 +26,6 @@
   },
   "cellsOrder": [
     1,
-    2,
     3
   ]
 }
