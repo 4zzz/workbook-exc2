@@ -15,7 +15,7 @@
     "2": {
       "id": 2,
       "type": "text",
-      "data": "",
+      "data": "test",
       "idCounter": 0,
       "comments": {
         "ids": [],
